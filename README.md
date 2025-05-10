@@ -15,4 +15,8 @@ This repository explores foundational techniques in statistical model fitting an
 
 This notebook contains my implemented solutions: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JItP5q5fM69-nZ-jr-kO3Q6URPOnlKmw?usp=sharing)
+
+
+
+

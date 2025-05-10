@@ -12,3 +12,7 @@ This repository explores foundational techniques in statistical model fitting an
 * Prepare and vectorize text data for classification.
 * Implement and evaluate classifiers using scikit-learn.
 * Visualize model performance for comparative analysis.
+
+* This notebook represents my implemented solutions for the exercises detailed above.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)

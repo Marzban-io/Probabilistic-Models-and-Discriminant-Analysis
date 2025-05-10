@@ -2,7 +2,7 @@
 
 This repository explores foundational techniques in statistical model fitting and classification, with a focus on both continuous and discrete data. Implemented exercises emphasize parameter estimation, data preparation, and evaluation of standard classifiers.
 
-* Applied QDA, LDA, Gaussian Naive Bayes, and k-NN using `scikit-learn`.
+* Applied QDA, LDA, Gaussian Naive Bayes, k-NN and Bag of words using `scikit-learn`.
 * Evaluated classification accuracy.
 * Compared results using a bar chart.
 
